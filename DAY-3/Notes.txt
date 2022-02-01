@@ -1,0 +1,32 @@
+Terms used in Inheritance
+
+Class: A class is a group of objects which have common properties. It is a template or blueprint from which objects are created.
+
+Sub Class/Child Class: Subclass is a class which inherits the other class. It is also called a derived class, extended class, or child class.
+
+Super Class/Parent Class: Superclass is the class from where a subclass inherits the features. It is also called a base class or a parent class.
+
+Reusability: As the name specifies, reusability is a mechanism which facilitates you to reuse the fields and methods of the existing class when you create a new class. You can use the same fields and methods already defined in the previous class.
+
+Inheritance represents the IS-A relationship which is also known as a parent-child relationship.
+
+Single level, Multi level and heritance.
+
+Multiple inheritance is not possible in java - we use interface as alternative
+
+https://www.geeksforgeeks.org/what-is-has-a-relation-in-java/ 
+
+IS-A relationship ----- Inheritance
+HAS-A relationship
+
+Association is the relation between two separate classes which establishes through their Objects.
+
+Composition and Aggregation are the two forms of association. In Java,
+
+a Has-A relationship is otherwise called composition. It is additionally utilized for code reusability in Java. In Java, a Has-A relationship essentially implies that an example of one class has a reference to an occasion of another class or another occurrence of a similar class.
+
+https://www.slideshare.net/HarisBinZahid/abstract-class-and-interface-49451395
+
+https://www.javatpoint.com/interface-in-java#:~:text=An%20interface%20in%20Java%20is,static%20constants%20and%20abstract%20methods.&text=There%20can%20be%20only%20abstract,and%20multiple%20inheritance%20in%20Java.
+
+https://www.w3schools.com/java/java_interface.asp

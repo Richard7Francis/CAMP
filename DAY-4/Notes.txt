@@ -1,0 +1,45 @@
+However, an interface is different from a class in several ways, including −
+
+You cannot instantiate an interface.
+
+An interface does not contain any constructors.
+
+All of the methods in an interface are abstract.
+
+An interface cannot contain instance fields. 
+The only fields that can appear in an interface must be declared both static and final.
+
+An interface is not extended by a class; it is implemented by a class.
+
+An interface can extend multiple interfaces.
+
+https://www.javatpoint.com/exception-handling-in-java
+
+ArithmeticException 
+It is thrown when an exceptional condition has occurred in an arithmetic operation.
+ArrayIndexOutOfBoundsException 
+It is thrown to indicate that an array has been accessed with an illegal index. The index is either negative or greater than or equal to the size of the array.
+ClassNotFoundException 
+This Exception is raised when we try to access a class whose definition is not found
+FileNotFoundException 
+This Exception is raised when a file is not accessible or does not open.
+IOException 
+It is thrown when an input-output operation failed or interrupted
+InterruptedException 
+It is thrown when a thread is waiting, sleeping, or doing some processing, and it is interrupted.
+NoSuchFieldException 
+It is thrown when a class does not contain the field (or variable) specified
+NoSuchMethodException 
+It is thrown when accessing a method which is not found.
+NullPointerException 
+This exception is raised when referring to the members of a null object. Null represents nothing
+NumberFormatException 
+This exception is raised when a method could not convert a string into a numeric format.
+RuntimeException 
+This represents any exception which occurs during runtime.
+StringIndexOutOfBoundsException 
+It is thrown by String class methods to indicate that an index is either negative or greater than the size of the string
+
+https://www.geeksforgeeks.org/types-of-exception-in-java-with-examples/
+
+https://www.geeksforgeeks.org/g-fact-32-user-defined-custom-exception-in-java/

@@ -1,0 +1,11 @@
+https://www.journaldev.com/797/what-is-java-string-pool
+
+https://docs.oracle.com/javase/8/docs/api/java/lang/String.html
+
+https://www.geeksforgeeks.org/split-string-java-examples/
+
+https://www.geeksforgeeks.org/strings-in-java/
+
+https://www.w3schools.com/java/java_strings.asp
+
+https://www.tutorialspoint.com/java/java_strings.htm
